@@ -1,0 +1,6 @@
+Model,Test Accuracy (%)
+Majority Baseline,56.0
+Logistic Regression,44.0
+Random Forest,52.0
+Tuned Random Forest,44.0
+XGBoost,40.0
